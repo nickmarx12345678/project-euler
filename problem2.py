@@ -2,10 +2,8 @@
 def is_even(num):
     return num % 2 == 0
 
-
-prevprev = 1
-prev = 2
-current = 3
+prev = 1
+current = 2
 total = 2
 
 while current < 4000000:
