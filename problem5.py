@@ -1,5 +1,5 @@
 current = 20
-divisors = [11,12,13,14,15,16,17,18,19]
+divisors = [11,12,13,14,15,16,17,18,19] #implicitly remove subfactors
 divisors.reverse()
 while True:
     found = True
