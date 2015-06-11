@@ -1,4 +1,5 @@
 #3 seconds?
+import math
 
 def nth_prime(n):
     primes = [2]
