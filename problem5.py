@@ -12,3 +12,4 @@ while True:
         break
     else:
         current += 20
+
